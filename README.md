@@ -1,5 +1,3 @@
-# Mehul Kumawat
-
 ## Lead Software Engineer - Computer Vision | LLM | GenAI | MLOps
 
 📍 Bengaluru, Karnataka, India
@@ -43,12 +41,6 @@ Let's connect and discuss how I can add value to your organization!
 ### **BYJU'S (Think & Learn Pvt. Ltd.)**  
 **Business Analyst** *(August 2019 - January 2020 | Ahmedabad, India)*
 
-### **CADD Centre Training Services Pvt Ltd.**  
-**Design Engineer - Trainer** *(November 2017 - August 2019 | Ahmedabad, India)*
-
-### **Rosenthal Landmark Honda**  
-**Student Internship** *(April 2017 - May 2017 | Ahmedabad, India)*
-
 ### **AIESEC India**  
 **Global Citizen Member** *(March 2016 - January 2017 | Ahmedabad, India)*
 - Assisted and handled student exchanges in foreign countries facilitated by AIESEC.
@@ -61,6 +53,12 @@ Let's connect and discuss how I can add value to your organization!
 🎓 **International Institute of Information Technology Bangalore**  
 *Postgraduate Diploma, Machine Learning & Artificial Intelligence (2021 - 2022)*
 
+🎓 **Machine Learning Enginner MLOps - Udacity Nanodegree Programme**  
+*3 Months Nano-degree programe (online) (2024)*
+
+🎓 **Sensor Fusion - Udacity Nanodegree Programme**  
+*3 Months Nano-degree programe (online) (2024)*
+
 🎓 **INDUS UNIVERSITY**  
 *Bachelor’s Degree, Automotive Engineering Technology/Technician (2013 - 2017)*
 
@@ -70,8 +68,9 @@ Let's connect and discuss how I can add value to your organization!
 ---
 
 ## 🏆 Certifications
+- **Machine Learning MLOps | Udacity Nanodegree
+- **Sensor Fusion | Udacity Nanodegree
 - **EPGP ML and AI Prep Course Completion**
-- **Creo for Design Engineers**
 - **HR Bootcamp - Data Science Program**
 - **Machine Learning DevOps Engineer**
 - **Python for Data Science and Machine Learning Bootcamp**
@@ -88,7 +87,6 @@ Let's connect and discuss how I can add value to your organization!
 ## 🌍 Languages
 - **English (Full Professional Proficiency)**
 - **Hindi (Native)**
-- **Gujarati (Fluent)**
 - **German (Elementary Proficiency)**
 
 ---
