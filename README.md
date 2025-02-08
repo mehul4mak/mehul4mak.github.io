@@ -13,11 +13,6 @@ Seasoned Lead Software Engineer specializing in AI programming and predictive mo
 ✔ **Results-Oriented & Team Player:** Highly motivated with a commitment to excellence and collaboration.  
 ✔ **Multi-Tasking & Deadline-Driven:** Well-organized, detail-oriented, and adept at managing multiple priorities efficiently.  
 
-
-📧 **Email:** mehulkumawat@icloud.com  
-📞 **Phone:** +91-8866395795  
-🔗 **LinkedIn:** [linkedin.com/in/mehulkumawat](https://www.linkedin.com/in/mehulkumawat)  
-
 ---
 
 ## 🚀 Experience
@@ -76,19 +71,11 @@ Seasoned Lead Software Engineer specializing in AI programming and predictive mo
 
 ---
 
-## 🔥 Top Skills
-- **Sensor Fusion**
-- **Python (Programming Language)**
-- **Machine Learning**
-
----
-
-- **Programming:** 
+# Skillsets
+## **Programming** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-0089D6?style=for-the-badge&logo=onnx&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 
-- **AI/ML:** Deep Learning, Computer Vision, LLM Fine-tuning, Model Optimization
-- **Deployment:** Edge AI, ARM-based AI Acceleration, Model Export (Python → C++), ONNX, Databricks
-## **Cloud & Databases:** 
+## **Cloud & Databases** 
    ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-3E6600?style=for-the-badge&logo=postgis&logoColor=white) ![VectorDB](https://img.shields.io/badge/VectorDB-000000?style=for-the-badge&logo=datadog&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ## **Framework & Tools**
@@ -98,8 +85,15 @@ Seasoned Lead Software Engineer specializing in AI programming and predictive mo
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-## **IoT & Embedded Systems:** AI for IoT, Embedded Machine Learning, Real-time Sensor Fusion
+## **IoT & Embedded Systems:**
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+
+---
+
+## 🌍 Languages
+- **English**
+- **Hindi**
+- **German**
 
 ---
 
@@ -112,9 +106,4 @@ Seasoned Lead Software Engineer specializing in AI programming and predictive mo
 
 ---
 
-## 🌍 Languages
-- **English**
-- **Hindi**
-- **German**
 
----
