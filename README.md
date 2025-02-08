@@ -62,8 +62,8 @@ Seasoned Lead Software Engineer specializing in AI programming and predictive mo
 ---
 
 ## 🏆 Certifications
-- **Machine Learning MLOps | Udacity Nanodegree**
-- **Sensor Fusion | Udacity Nanodegree**
+- **Machine Learning MLOps Udacity Nanodegree**
+- **Sensor Fusion Udacity Nanodegree**
 - **EPGP ML and AI Prep Course Completion**
 - **HR Bootcamp - Data Science Program**
 - **Machine Learning DevOps Engineer**
