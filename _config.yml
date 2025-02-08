@@ -2,4 +2,5 @@ title: Mehul Kumawat
 logo: /assets/img/mehul_circle.png
 # description: 
 show_downloads: true
+show_sidebar: true
 theme: jekyll-theme-minimal
