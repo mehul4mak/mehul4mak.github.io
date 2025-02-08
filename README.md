@@ -15,6 +15,108 @@ Seasoned Lead Software Engineer specializing in AI programming and predictive mo
 
 ---
 
+# 🌟 Projects
+
+## AI-Powered Predictive Preconditioning System
+**Objective:**  
+Developed a machine learning-driven predictive preconditioning system that dynamically adjusts environmental settings based on sensor-derived user behavior and physiological patterns.
+
+**Innovations & Approach:**  
+- Designed a **ResNet-based temporal model**
+- Integrated **multi-sensor fusion pipelines**
+- Applied **adaptive optimization techniques** for energy-efficient preconditioning
+
+**Impact:**  
+- Achieved a **30% improvement** in energy efficiency
+- Reduced **discomfort complaints by 40%** in test environments
+
+**Tech Stack:**  
+`PyTorch`, `ResNet`, `Time-Series Feature Extraction`, `IoT Sensor Integration`, `Bayesian Optimization`
+
+---
+
+## Optimized Model Export for ARM Hardware
+**Objective:**  
+Converted and optimized AI models from Python to C++ for an **ARM-based hardware platform** running on a custom OS.
+
+**Impact:**  
+- Enabled **high-speed AI inference** on constrained hardware
+- Improved efficiency and **reduced computational overhead**
+
+**Tech Stack:**  
+`Python`, `C++`, `ONNX`, `TensorRT`, `ARM Architecture`
+
+---
+
+## Facial Recognition on Low-Cost ICs
+**Objective:**  
+Deployed an optimized **facial recognition system** on **low-cost ICs** for real-time user authentication in budget-friendly security applications.
+
+**Innovations & Approach:**  
+- Optimized **CNN model** using **ONNX Runtime, model quantization, and pruning** for edge AI acceleration.
+
+**Impact:**  
+- Achieved **near real-time inference** on low-cost hardware
+- Enabled **biometric authentication** for IoT devices
+
+**Tech Stack:**  
+`PyTorch`, `ONNX`, `OpenCV`, `Model Quantization`, `Pruning`, `Edge TPU Acceleration`
+
+---
+
+## LLM-Based User Identification System
+**Objective:**  
+Designed an **LLM-based system** for user identification using **multi-modal data (video, images, audio)**.
+
+**Innovations & Approach:**  
+- Fine-tuned **Llama-based LLM**
+- Used **CLIP and Whisper-based embeddings** for cross-modal data integration
+- Optimized **Pinecone for scalable retrieval**
+
+**Impact:**  
+- Enhanced **user profiling accuracy** by leveraging multi-modal embeddings
+- Reduced **inference time by 35%**
+
+**Tech Stack:**  
+`PyTorch`, `Hugging Face`, `Llama`, `CLIP`, `Whisper`, `Pinecone`, `Databricks`
+
+---
+
+## Sensor Fusion for Time-to-Collision (TTC) Calculation
+**Objective:**  
+Developed a **sensor fusion-based Time-to-Collision (TTC) estimation system** for **autonomous vehicles**.
+
+**Innovations & Approach:**  
+- Processed **LiDAR, RADAR, and camera data** using a **UKF** for non-linear motion models
+- Improved **collision prediction accuracy**
+
+**Impact:**  
+- Improved **TTC accuracy by 20%**
+- Reduced **false positives**, enabling real-time computation for **ADAS**
+
+**Tech Stack:**  
+`OpenCV`, `PCL`, `C++`, `UKF`, `CUDA`
+
+---
+
+## OCR System for Automated Document Processing
+**Objective:**  
+Developed an **OCR pipeline** for extracting **structured data** from scanned documents with irregular layouts.
+
+**Innovations & Approach:**  
+- Used **OpenCV** for **adaptive binarization, skew correction, and text segmentation**
+- Optimized **Tesseract OCR** with **LSTM-based enhancements**
+
+**Impact:**  
+- Reduced **manual data entry workload by 80%**
+- Improved **document processing efficiency by 50%**
+
+**Tech Stack:**  
+`Tesseract`, `EasyOCR`, `OpenCV`, `NLP-based error correction`
+
+
+---
+
 ## 💼 Experience
 
 ### **Stellantis**  
