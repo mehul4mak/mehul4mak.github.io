@@ -48,9 +48,9 @@ Converted and optimized AI models from Python to C++ for an **ARM-based hardware
 
 ---
 
-## Facial Recognition on Low-Cost ICs
+## Facial Recognition on NVIDIA Jetson Nano
 **Objective:**  
-Deployed an optimized **facial recognition system** on **low-cost ICs** for real-time user authentication in budget-friendly security applications.
+Deployed an optimized **facial recognition system** on **Resource-constrained Hardware** for real-time user authentication in strict security applications.
 
 **Innovations & Approach:**  
 - Optimized **CNN model** using **ONNX Runtime, model quantization, and pruning** for edge AI acceleration.
@@ -123,6 +123,18 @@ Developed an **OCR pipeline** for extracting **structured data** from scanned do
 **Lead Engineer** *(October 2023 - Present | Bengaluru, India)*  
 **Senior Software Engineer - Artificial Intelligence** *(July 2022 - October 2023 | Bengaluru, India)*  
 - Innovating and engineering new AI-powered software and applications to enhance vehicle experience for users across Stellantis car brands.
+- Performed MLOPs to validate ML model for various tasks such as Object Detection, Object Localization, Instance Segmentation.
+Trained and Fine-tune SOTA model with on-premise Multi GPU Clusters and quantized them with mixed-precision floats to increase model inference time and reduce model size on recourse constrained hardware.
+- Worked on NVIDIA Jetson nano as development board to perform fast compilation of ONNX model inference code.
+Curated large amount of datasets for occupancy detection and automatic profile selection and experimented various methods to personalized in-cabin experience. 
+- Developed Novel solution to two feature enablers using AI for enhancing user experience for STELLANTIS Car Brand.
+- Contributed to LLM Based User Manual, LLM Based AI Agent for Vehicle Interior feature control, Driver Gaze and Emotion Detection for Safety and Personalized Experience in vehicle cockpit.
+- Collaborated with the Product Owner to meet project deadlines, ensuring timely completion of daily tasks and supporting the team in AI and ML projects, with a focus on code review and testing
+- Crafted the project proof of concept utilizing BentoML, Qdrant (Vector DB), LlamaIndex, ONNX, Pytorch, Grafana Kibana, and Locust to demonstrate software feasibility for production, resulting in increased revenue generation
+- Worked with supplier software to integrate and develop working software package for Embedded System.
+- Implemented C++ Wrapper code and plugin architecture to enhance ML Prediction efficiency on Edge Devices, enabling predictions on low-resource devices and supporting traditional ML models like XGBoost
+- Analyzed Time to Collision by integrating sensor data from camera, radar, and lidar
+- Mentoring Graduate Engineering Trainees (GETs) to enhance their skills and knowledge in the field
 - Worked on **STLA Brain, STLA AutoDrive, and STLA Smart Cockpit**.
 
 ### **The Hanover Company**  
